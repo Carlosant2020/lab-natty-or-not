@@ -20,22 +20,22 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Natty or Not A Controvérsia da Musculação
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Criei um video com imagens relacionando o assunto der ser natural ou nao na musculaçao
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Utilizei o chatgpt da openia para me fornecer um artigo sobre ser natural ou nao dentro da musculação 
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+troquei imagens e sons dentro do video
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+https://video.pictory.ai/1725585501841/20240906022229185LdaTQjkgfJIChb7
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Foi muito bom saber como e facil trabalhar com ias generativas
 ```
 
 ### Exemplos e Insigths
